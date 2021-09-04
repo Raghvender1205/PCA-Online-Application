@@ -10,3 +10,6 @@ This Streamlit based Application helps user to apply Principal Component Analysi
 
 3. This window will appear, with options to select different components and output in the form of `Plotly` Scatter Plot.
 <img src="docs/Output.jpg">
+
+
+This application is very helpful for data scientist as it solves simple classification and data visualization problems.
