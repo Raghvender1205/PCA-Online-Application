@@ -5,7 +5,7 @@ import plotly.express as px
 from App_Functions import PCA_Maker
 
 st.set_page_config(layout='wide')
-scatter_col, settings_col = st.beta_columns((4, 1))
+scatter_col, settings_col = st.columns((4, 1))
 
 scatter_col.title('Multi-Dimensional Analysis')
 settings_col.title('Settings')
